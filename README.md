@@ -28,7 +28,7 @@ The Collaborative Code Editor Tool is a web-based application that allows multip
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/tejudevisetty/collaborative-editor.git
+   git clone https://github.com/tejudevisetty/collaborative-code-editor.git
    cd CollaborativeCodeEditorTool
    ```
 
